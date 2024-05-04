@@ -1,0 +1,6 @@
+img {
+    /* Definindo largura máxima de 200px */
+    max-width: 500px;
+    /* Definindo altura automática para manter a proporção */
+    height: auto;
+}
